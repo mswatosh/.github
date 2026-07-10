@@ -8,7 +8,7 @@ If you think you have found a vulnerability in Jakarta EE, please report it to u
 
 **Please do not report security vulnerabilities through public issues, discussions, or change requests.**
 
-Instead, report it the following way:
+Instead, report it using the following method:
 
 * Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability) in the Eclipse Foundation Vulnerability Reporting Tracker
 
